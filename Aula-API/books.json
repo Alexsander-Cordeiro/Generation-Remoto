@@ -1,0 +1,34 @@
+[
+    {
+        "isbn": "9876543210",
+        "title": "A vida é bela",
+        "author": "Wheslley Rimar Bezerra",
+        "publish_date": "2014-12-14",
+        "publisher": "Senac",
+        "numOfPages": 472
+    },
+    {
+        "isbn": "0123456789",
+        "title": "Game of Thrones",
+        "author": "George R. R. Martin",
+        "publish_date": "1992-06-22",
+        "publisher": "Generation",
+        "numOfPages": 800
+    },
+    {
+        "isbn": "2234567890",
+        "title": "Teste 1",
+        "author": "Teste Teste Teste",
+        "publish_date": "1990-10-21",
+        "publisher": "Test",
+        "numOfPages": 500
+    },
+    {
+        "isbn": "4567891230",
+        "title": "Teste Teste",
+        "author": "Teste",
+        "publish_date": "1990-06-22",
+        "publisher": "Teste",
+        "numOfPages": 155
+    }
+]
